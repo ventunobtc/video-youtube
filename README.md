@@ -1,17 +1,29 @@
 # video-youtube
 Raccolta dei video del canale ufficiale di Ventuno
 
+| Titolo | Link | Trascrizione EN | Versione IT |
+|:--------------:|:-------------:|:--------------:|:--------------:|
+Cypherpunks Write Code||||
+|-||||
+-||||
+-||||
+-||||
+-||||
+-||||
+-||||
+-||||
+-||||
+
 ## Come contribuire
 
 1. Forkare la repository
-2. Tradurre i video presenti in [`issues`](https://github.com/ventunobtc/video-youtube/issues)
-3. Aggiungere il file `Markdown` della traduzione nella propria repository. Il file deve essere formattato nel seguente modo:
-    - prima suddivisione facoltativa in parti elencate da lettere (Parte A, Parte B, ecc.)
+2. Trascrivere in inglese un video presente in [`issues`](https://github.com/ventunobtc/video-youtube/issues)
+3. Tradurre in italiano la trascrizione
+4. Aggiungere i file `Markdown` della trascrizione e traduzione nella propria repository. I file deveno essere divisi e formattati nel seguente modo:
+    - creare per ogni capitolo un file nominato nel seguente modo `chXXX-TITOLO` (esempio: `ch001-il-protocollo-bitcoin.md`)
     - sezioni numerate da circa 1 minuto
 
 ```markdown
-
-#### PART A
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
 Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -32,15 +44,8 @@ ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam q
 orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
 Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.
 Fusce vulputate eleifend sapien.
- 
-#### PART B
-
-1. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem
-in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis 
-in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium
-turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris.
 
 ```
 
-4. Effettuare `pull request`
+5. Effettuare `pull request`
  
