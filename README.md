@@ -1,18 +1,18 @@
 # video-youtube
 Raccolta dei video del canale ufficiale di Ventuno
 
-| Titolo | Trascrizione EN | Versione IT |
-|:--------------:|:--------------:|:--------------:|
-| Cypherpunks Write Code | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
-|-|||
-|-|||
-|-|||
-|-|||
-|-|||
-|-|||
-|-|||
-|-|||
-|-|||
+| Titolo | Video | Trascrizione EN | Versione IT |
+|:--------------:|:--------------:|:--------------:|:--------------:|
+| Cypherpunks Write Code | [YouTube](https://youtu.be/9vM0oIEhMag) | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
 
 ## Come contribuire
 
