@@ -4,7 +4,7 @@ Raccolta dei video del canale ufficiale di Ventuno
 | Titolo | Link | Trascrizione EN | Versione IT |
 |:--------------:|:-------------:|:--------------:|:--------------:|
 Cypherpunks Write Code||||
-|-||||
+Bitcoin Fixes This||||
 -||||
 -||||
 -||||
