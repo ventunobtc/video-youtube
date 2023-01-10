@@ -4,6 +4,8 @@ Raccolta dei video del canale ufficiale di Ventuno
 | Titolo | Video | Trascrizione EN | Versione IT |
 |:--------------:|:--------------:|:--------------:|:--------------:|
 | Cypherpunks Write Code | [YouTube](https://youtu.be/9vM0oIEhMag) | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
+| Ross Ulbricht Miami Bitcoin Conference | [YouTube](https://m.youtube.com/watch?v=zHMVyr5NjEY&feature=youtu.be) | [Link](Ross-Ulbricht-Miami-Bitcoin-Conference/en) | [Link](Ross-Ulbricht-Miami-Bitcoin-Conference/it) |
+|-||||
 |-||||
 |-||||
 |-||||
