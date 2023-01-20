@@ -1,0 +1,103 @@
+L'aumento della dimensione dei blocchiconsente alla rete di elaborare
+
+un maggior numero di transazioni.Tuttavia, l'aumento della dimensione del blocco aumenta la larghezza di bandae l'archiviazione dei dati necessari per gestire un full node,rende quindi difficile per 
+
+l'utente comune mantenerne uno.Nel 2017, i miner che detenavano oltre l'80% della potenza di calcolo,il più grande produttore di attrezzature per il mining di Bitcoin, e un gran numerodi grandi 
+
+aziende di custodian ed exchanges, tra cui Coinbase e Grayscale,erano favorevoli all'aumento delle dimensioni dei blocchicon un aggiornamento chiamato
+
+SegWit 2X.Eppure hanno fallito.Perché è fallito?Perché la plebe (gli utenti)
+
+erano contrari all'ideaed è possibile solo in una rete in cui ci sono così tanti utenti che gestiscono i nodi a casa e minacciando di fare un UASF (user activated soft fork)o qualcosa del genere se il 
+
+cambiamento procede.E credo che realisticamente sarebbe
+
+molto difficile per Ethereumfarlo in questo momento, perché non sono in molti ad avere un full node.Se il Bitcoin fosse costruito sul modello proof of stakein cui più monete si possiedono, più voti si 
+
+hanno all'interno della retei grandi exchange e i custodian
+
+avrebbero potuto usarei milioni di monete che detenevano per conto dei clientiper votare a proprio favore.Ciò è simile al modo in
+
+cui BlackRock mantienei diritti di voto di trilioni
+
+di dollari di beni dei clienti.La proof of work e una rete con molti piccoli nodiche sono il modo principale per mantenere una blockchainsufficientemente decentralizzata e sicura al livello di base (base 
+
+layer).Se Bitcoin dovesse mai passare a un altro sistema,sarebbe solo con il consenso schiacciante degli utenti.Ethereum ha avuto molti più problemi
+
+di scalabilità rispetto a Bitcoin,ciò ha fatto nascere altri sistemi
+
+centralizzati e per certi versi più efficientiblockchain e smart contract concorrenti (ad ethereum)E tra queste nuove proof fo stake concorrenti,ci sono diversi esempi di come siano andate incontro 
+
+diversi problemi.Un problema riguarda la blockchain di
+
+Salana, che è stata interrotta per 17 ore.Solana è una popolare blockchain
+
+basata su smart contractche cerca di essere più
+
+scalabile di Ethereum implementandouna combinazione di proof of stake e proof of historycosì da permettere un maggior numero di transazioni.Questa maggiore scalabilità comporta alcuni 
+
+compromessi.Per prima cosa, per eseguire
+
+un nodo "validator" di Solana,è necessario un computer con una CPU da 12 core, 128 GB di RAM e 300 megabit/s di velocità in upload questo significa, (soprattutto la parte
+
+relativa alla velocità di upload)che è necessario avere un data center per gestire un nodo validator di SolanaIn secondo luogo, anche i validatori nei data centerdevono fare affidamento sugli 
+
+archiviatori (archivers) se vogliono avere l'intera storia della blockchain, perché nel corso del tempola quantità di informazioni
+
+memorizzate diventa enorme.In terzo luogo, Salana usa delle divisioni manuali (manual shlashing).In altre parole, si tratta di una blockchain che richiede l'intervento umanoper determinare il consenso in
+
+caso di attacchi significativi alla rete.Quindi Salana non è nemmeno
+
+una blockchain automatizzata.Si tratta di un passo indietro rispetto alla proof of work usata in Bitcoin e Ethereumin termini di automazione, in cambio di un maggiore throughput e fee basse,il 
+
+meccanismo di consenso è molto
+
+più manuale, umano e politico.Le piattaforme di smart contracttendono a spostarsi verso una
+
+sempre maggiore centralizzazioneperché più sono centralizzati,
+
+più sono efficienti.E gli utenti vogliono efficienza.Credo che le persone non devrebbero possedere Ethereum,a causa di questo problema di centralizzazione, che essenzialmente,è come cercare di 
+
+cambiare il motore
+
+di un'auto mentre la si sta guidando.Quindi il passaggio dalla proof
+
+of work alla proof of stake,è stato ritardato per anni
+
+perché è un problema difficile.È un problema molto difficile,continuano a cambiare le
+
+modalità di scalabilità,negli ultimi quattro o cinque anni ci sono state delle invenzioniche hanno cambiato le carte in tavola per la scalabilità del protocollo.E quindi, in generale, il mio problema
+
+con alcuni piattaforme di smart contractè che sembrano tendere alla centralizzazione.E lo si vede nel confronto
+
+tra Solana ed Ethereum,in cui arriva una blockchain più centralizzata, che è più efficiente perché è più centralizzato, e poi la
+
+gente inizia ad utilizzarla.L'hype si sposta lì. La DeFI cresce più velocemente in quel ambienteche su un Ethereum, perché
+
+le fee sono più basse.E ancora, non comprendono appieno i compromessi,ma finché funziona
+
+non si preoccupano più di tanto.Di conseguenza, le piattaforme di smart contractche hanno un throughput più elevato e una massiccia adozionehanno una discreta possibilità
+
+di conquistare quote di mercato.Questo ambiente continua a diluirsi con
+
+reti più efficienti e centralizzate.Tuttavia, Ethereum va di tanto in tanto down (parzialmente)con divisioni involontarie della blockchain.Ed è possibile che con il passaggio alla proof fo stake,possa 
+
+trovarsi di fronte a problemi più
+
+gravi di quelli affrontati da Solana.Nel complesso, quindi, il succo del discorsoè che non includendo i costi
+
+iniziali come parte del loro designI sistemi di proof of stake intrinsecamente si affidanoad una maggiore fiducia e hanno una minore capacità direcuperare da divisioni della blockchain senza 
+
+l'intervento umano.Molti propongono la proof of stake come tecnologia superiore o migliore rispettoalla proof of work, e
+
+ne elogiano la maggiore scalabilitàsenza rendersi conto di questi problemi.Molte delle cose che pensano siano
+
+bug da eliminare dal sistema,come il fatto che un sistema di proof
+
+of work ha un costo di risorse reali,sono caratteristiche che lo
+
+rendono il più sicuro possibile.Per riassumere in una frase, la proof of work è intrinsecamente simile al denaro,mentre la proof of stake
+
+è più simile ad una azione societaria.Cosa rende le blockchain proof of stake intrinsecamente simili alle azioni è che richiedono una forma di governance continua,mentre le blockchain proof of
+
+work sono più simili al denaro.
