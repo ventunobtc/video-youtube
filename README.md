@@ -1,18 +1,18 @@
 # video-youtube
 Raccolta dei video del canale ufficiale di Ventuno
 
-| Titolo | Link | Trascrizione EN | Versione IT |
-|:--------------:|:-------------:|:--------------:|:--------------:|
-Cypherpunks Write Code||||
-Bitcoin Fixes This||||
--||||
--||||
--||||
--||||
--||||
--||||
--||||
--||||
+| Titolo | Video | Trascrizione EN | Versione IT |
+|:--------------:|:--------------:|:--------------:|:--------------:|
+| Cypherpunks Write Code | [YouTube](https://youtu.be/9vM0oIEhMag) | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
+| Bitcoin Fixes This | [YouTube](https://youtu.be/ecLbZF2AvxM) | [Link](Bitcoin-Fixes-This/en) | [Link](Bitcoin-Fixes-This/it) |
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
+|-||||
 
 ## Come contribuire
 
