@@ -6,33 +6,33 @@ L'indebolimento del denaro induce il rischio morale e di conseguenza prodotti di
 <br/>Bitcoin risolve questo problema essendo denaro onesto.
 
 In più, la stampa di denaro porta prima o poi all'inflazione e all'effetto Cantillon, a causa del quale la ricchezza si distribuisce dai poveri ai ricchi, aumentando le disuguaglianze sociali.
-<br/>Bitcoin risolve questo problema eliminando le gerarchie ed evitando che qualcuno sia più vicino a chi stampa il denaro.
+<br/>Bitcoin risolve questo problema eliminando la gerarchia di chi è più vicino alla stampante di denaro.
 
 La stampa di denaro da parte delle banche centrali è pari alla schiavitù: rubare una media del 7,6% di ore lavorative all'anno dal 1981 equivale a schiavizzare 11,7 milioni di persone per 40 anni di fila. In termini di tempo umano assoluto rubato all'anno, la moneta fiat è il più grande schema piramidale nell'istituzione della schiavitù della storia umana.
 <br/>Bitcoin risolve questo problema eliminando chi stampa denaro e non cedendo a nessuno il controllo dell'offerta monetaria.
 
 2.
 Nel 2008, durante la crisi finanziaria, le aziende zombie sono state pagate, mentre le banche centrali hanno causato un'inflazione degli asset, invece di fare leva in modo naturale sulle aziende che non hanno avuto successo e sui mercati nel loro complesso.
-<br/>Bitcoin risolve questo problema consentendo un'attività di mercato non distorta e lasciando che le aziende zombie falliscano, dando la possibilità alle aziende meglio gestite di risorgere.
+<br/>Bitcoin risolve questo problema permettendo una sana attività di mercato e lasciando che le aziende zombie falliscano, dando la possibilità alle aziende migliori di emergere.
 
 L'intero mondo fiat si regge sul debito; per sconfiggerlo è necessario creare altro debito, rubando così al futuro. Il quantitative easing porta a ulteriore quantitative easing. Il destino inevitabile di ogni moneta fiat è il suo collasso a causa dell'iperinflazione o della mancanza di fiducia nella moneta.
 <br/>Bitcoin risolve questo problema rendendo gli investimenti basati sul risparmio e non sul debito.
 
 Il PIL di paesi come El Salvador e Tonga è in gran parte alimentato dalle rimesse. Gli intermediari trattengono fino al 50% di commissioni per queste transazioni.
-<br/>Bitcoin risolve questo problema essendo aperto, senza confini e quasi senza commissioni considerando il lightning network.
+<br/>Bitcoin risolve questo problema essendo aperto, senza confini e quasi senza commissioni con Lightning Network.
 
-La corruzione impedisce al 30% di tutti i sostegni allo sviluppo di raggiungere la destinazione finale.
+La corruzione ha impedito al 30% di tutti i sostegni allo sviluppo di raggiungere la destinazione finale.
 <br/>Bitcoin risolve questo problema grazie a un sistema peer-to-peer senza intermediari corrotti.
 
 3.
 Per alcune persone in tutto il mondo, l'accesso al sistema finanziario è ostacolato dalla discriminazione razziale e di genere.
-<br/>Bitcoin risolve questo problema ignorando il nome, l'età, il sesso o l'etnia, che si tratti di donne in Afghanistan in cerca di libertà finanziaria o di un uomini di colore in un ambiente razzista.
+<br/>Bitcoin risolve questo problema ignorando il vostro nome, età, sesso o etnia, se siete donne che programmano in Afghanistan alla ricerca della libertà finanziaria o un uomo di colore in un ambiente razzista.
 <br/>Bitcoin è il sistema finanziario più inclusivo mai creato.
 
 Il presidente di un Paese non ha un solo diritto in più rispetto a un contadino. 1,7 miliardi di adulti non hanno accesso al sistema finanziario.
 <br/>Bitcoin risolve questo problema riducendo il numero di persone senza accesso al sistema finanziario.
 
-In El Salvador il 70% della popolazione non ha accesso al sistema bancario. Questa situazione cambierà rapidamente ora che Bitcoin ha corso legale nel Paese: chiunque abbia una connessione a internet può collegarsi al sistema finanziario Bitcoin. I manifestanti per la libertà in Bielorussia, Nigeria e Hong Kong si sono visti congelare i conti bancari e bloccare i fondi.
+In El Salvador il 70% della popolazione non ha accesso al sistema bancario. Questa situazione cambierà rapidamente ora che Bitcoin è a corso legale nel paese: chiunque abbia una connessione a internet può collegarsi al sistema finanziario di Bitcoin. I manifestanti per la libertà in Bielorussia, Nigeria e Hong Kong si sono visti congelare i conti bancari e bloccare i fondi.
 <br/>Bitcoin risolve questo problema essendo resistente alla censura.
 <br/>Nessuno può impedire una transazione Bitcoin o bloccare il vostro conto.
 
@@ -40,7 +40,7 @@ Un'enorme percentuale di energia viene sperperata, il che significa che non può
 <br/>Bitcoin risolve questo problema essendo un acquirente di energia di ultima istanza che porta a un più rapido rifinanziamento delle infrastrutture e incentiva l'energia verde.
 
 4.
-Chiaramente Bitcoin ha molte narrazioni parallele: una riserva di valore, un riparo contro l'inflazione, un asset finanziario non correlata, una moneta resistente alla censura, un sistema di pagamento economico e aperto attraverso il lightning network, una valuta di riserva mondiale, un asset di riserva mondiale o il primo livello di un sistema finanziario veramente decentralizzato.
+Chiaramente Bitcoin ha molte narrazioni parallele: una riserva di valore, un riparo contro l'inflazione, un asset finanziario non correlato, una moneta resistente alla censura, un sistema di pagamento economico e aperto attraverso Lightning Network, una valuta di riserva mondiale, un asset di riserva mondiale o un primo livello di un sistema finanziario veramente decentralizzato.
 Non esiste un'unica, semplice visione.
 C'è chi lo fa per l'aumento di prezzo, chi per liberare il mondo dagli schiavisti e dagli autoritari, ed è così che dovrebbe essere: Bitcoin non ha un sovrano, un leader o una governance, è una rete decentralizzata che ognuno può usare per quello che preferisce; volendo, può anche costruirci sopra.
 <br/>Bitcoin è molte cose in una: è l'evoluzione dell'oro, la precedente miglior moneta che il mondo abbia mai visto, e la rivoluzione delle valute fiat.
