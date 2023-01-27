@@ -4,10 +4,10 @@
  Yess. All right. 
  Hello, this is Ross Ulrich calling you today 
  from prison from a maximum security federal penitentiary. 
- We don't have much time together today, and i don't know 
- if i'll get another chance to tal to you like this. 
- Say as much as i can, but when it's time to go, 
- i'll have to hang up and ho back to my cell. 
+ We don't have much time together today, and I don't know 
+ if I'll get another chance to talk to you like this.
+ I'll say as much as I can, but when it's time to go, 
+ I'll have to hang up and ho back to my cell. 
  I have lost my freedom. 
  That's what i want to talk to you about today. 
  I want you to understand what 
@@ -19,8 +19,8 @@
  Bitcoin was open to everyone, right? 
   
  2. 
- I loved so much about it, 
- like it reveled the playing field. 
+ I loved so much about it, 
+ it was like it reveled the playing field. 
  When the idea of bitcoin really clicked 
  for me, i got so excited. 
  I thought, with bitcoin, i can try to 
@@ -54,7 +54,7 @@
  impressed with how far we've come. 
  But back then, i was impatient. 
  I rushed ahead with my first idea,  
- which was silk road. 
+ which was Silk Road. 
  Silk road was a website i made when i was 
  26 years old, more than a decade ago now. 
   
@@ -65,7 +65,7 @@
  anonymous and private, then what are we waiting for? 
  Why are we sitting around talking about it? 
  Let's put it into action. 
- Thant's impulsive. 
+ That's impulsive. 
  That's a 26 year old who thinks he has to 
  save the world before someone beats him to it. 
  I had no idea if silk road 
@@ -90,7 +90,7 @@
  I'm not sure. 
  For better or worse, silk road 
  is part of bitcoin's history now. 
- But i worry that by putting silk  online, 
+ But I worry that by putting Silk Road online, 
  i made things harder for us. 
   
  6. 
@@ -191,8 +191,8 @@
  And the first thing she said was, 
  has anyone told you about mom yet? 
  I said, what about her? 
- And she said to me in this voice, she said, oh Ross,  
- Ross Robinson. 
+ And she said to me in this voice, she said: "oh Ross,
+Ross Ross" 
   
  11. 
  And i knew her mom had been feeling sick. 
@@ -366,7 +366,7 @@
  I'm not alone. 
  These prisons are full of 
  people who don't deserve this. 
- The are mothers and fathers. 
+ There mothers and fathers. 
  We are sisters and brothers. 
  But we've been made into monsters. 
  In your eyes, we've been made less than human. 
