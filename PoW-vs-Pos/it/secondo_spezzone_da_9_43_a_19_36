@@ -1,107 +1,515 @@
-Samson Mao, uno sviluppatore
+[00:09:40.705] 
+Samson Mao, uno sviluppatore dell'ecosistema Bitcoin
 
-dell'ecosistema Bitcoin, descrive questoproblema di complessità da un'altra prospettiva.Ci sono molti problemi con la proof of
+[00:09:42.945] 
+descrive questo problema di complessità da un'altra prospettiva.
 
-stake, perché non può funzionare, e se sirisolve uno dei problemi, se ne crea un altro.Quindi la tendenza generale di chi propone la proof of stakeè quella di creare un sistema molto complesso, in modoche i difetti non 
+[00:09:47.225] 
+Ci sono molti problemi con la proof of stake, ed ecco perchè non può funzionare,
 
-possano essere facilmente identificati.La proof of stake è quindi un sistema più complessoche toglie le monete agli Staker
+[00:09:50.985] 
+se si risolve uno dei problemi, se ne crea un altro.
 
-se votano in modo improprio e ha un modoper verificare se stanno votando su più catene.Un altro sviluppatore di Ethereum, Ben Edgington,spiega le sfide a lungo termine
+[00:09:54.345] 
+Quindi la tendenza generale di chi propone la proof of stake
 
-che Ethereum ha affrontato nel passaggiopluriennale dalla proof of work alla proof of stake.Il motivo per cui ci è voluto un po' di
+[00:09:59.145] 
+è quella di creare sistema molto complesso, in modo che i
 
-tempo ad affrancarci dalla proof of work inEthereum per più di cinque anni è che la proof of stake è complicata.La proof of work è fondamentalmente molto semplice,è facile da analizzare, da implementare e da distribuire.La 
+[00:10:00.985] 
+difetti non possano essere facilmente identificati.
 
-proof of stake ha invece molte parti mobili.Un algoritmo di proof of work può essere codificato in circa 100 righe.I nostri client attuali hanno 100.000 righe di proof of stake.E credo che le basi teoriche della proof of 
+[00:10:03.545] 
+La proof of stake è quindi un sistema più complesso
 
-stakeabbiano richiesto tempo per maturare.Non è ovvio come renderlo robusto.Ci sono attacchi, come quelli a lungo raggio, e cose che non esistono nellaproof of work, che abbiamo dovuto analizzare e risolvere per questo 
+[00:10:05.825] 
+che toglie le monete agli Staker se votano in modo improprio e ha un modo
 
-c'è voluto tempo,nel frattempo, ci siamo affidati al collaudato algoritmo proof of work, che ha fatto funzionare bene Ethereum.Oltre a questa maggiore complessità, la fiducia e le superfici di attaccoun altro rischio della proof of 
+[00:10:10.545] 
+di controllare se stanno votando su più catene.
 
-stake è la centralizzazione.Con un sistema di proof of stake, più monete si hanno, più potere di voto si ha.E coloro che possiedono le monete sono anche quelli che guadagnano le nuove monete dalle puntate.Dal momento 
+[00:10:13.945] 
+Un altro sviluppatore per Ethereum,
 
-che non hanno bisogno di spendere risorse per puntare, possono aumentare l'importodelle loro puntate guadagnando continuamente monete dalle ricompense delle puntate.In pratica, sarebbe come un sistema politico in cui 
+[00:10:15.825] 
+Ben Edgington, spiega le sfide a lungo
 
-più soldi si hanno, più potere si ha,inoltre per ogni 100 dollari spesi per un voto, si ricevesse dal governo un dollaro per ogni voto.Supponiamo quindi che ci sia un'insegnante di scuola superiore con un patrimonio netto di 
+[00:10:17.665] 
+termine che Ethereum ha affrontato nel passaggio pluriennale
 
-20.000$Se votasse con tutti quei soldi, riceverebbe 200 dollari dal governo per aver votato.Mentre se ci fosse qualcuno come Jeff Bezos con un patrimonio netto di 200 miliardi di dollari,se votasse con tutti quei soldi, 
+[00:10:20.745] 
+dalla proof of work alla proof of stake.
 
-otterrebbe 2 miliardi di dollari dal governo per aver votato.Quindi, per un fattore di un milione, Jeff Bezossarebbe un cittadino più prezioso dell'insegnante di scuola superiore everrebbe pagato un fattore di un milione in più dal 
+[00:10:25.705] 
+Il motivo per cui ci è voluto un po' di
 
-sistema per essere già ricco.Alla fine, è probabile che il potere si consolidi con una manciata di multimiliardari, che controllano lamaggior parte dei voti e che fanno girare tutto, se diventa troppo centralizzatoquesto vanifica lo 
+[00:10:27.505] 
+tempo ad affrancarci dalla proof of work in Ethereum (più di cinque anni)
 
-scopo di una blockchain decentralizzata.Invece, il sistema della proof of stake funziona bene soprattutto per lepartecipazioni in proprietà private centralizzate come le società.In una società, ogni azione vale un votoper le 
+[00:10:31.305] 
+è che la proof of stake è complicata.
 
-proposte e i posti nel consiglio di amministrazione, poiché i proprietaridecidono cosa fare della società in proporzione alla loro proprietà.Supponiamo quindi che siano più simili a una società.In questo caso, il modello della 
+[00:10:35.025] 
+La proof of work è fondamentalmente molto semplice,
 
-proof of stake non è un male per le criptovalute,che possono essere utilizzate per la sperimentazione,in effetti, la proof of stake può aumentare il costo degli attacchi alprotocollo, poiché gli aggressori dovrebbero acquisire 
+[00:10:37.385] 
+È facile da analizzare, da implementare e deployare (mettere in produzione).
 
-molte monete.Ma ovviamente saranno inclini alla centralizzazione.Ma questo può andare bene se c'è concorrenza,se il loro servizio non è buono, la gente può andare altrove.Il creatore della proof of work, Adam 
+[00:10:41.105] 
+La proof of stake ha invece molte parti mobili.
 
-Back,descrive il motivo per cui ritiene che la proof of work superi la proof of stakequando cerca di essere un asset simile al denaro.È un sistema che funziona perché il denaro ha un costo.Penso che il denaro che non ha un 
+[00:10:44.985] 
+Un algoritmo di proof of work può essere  codificato in circa 100 righe.
 
-costo finisca per essere di natura politica.Quindi le persone più vicine al denaro, per il cosiddetto "Cantillon Effect", saranno avvantaggiate.Le persone che hanno la possibilità di creare più denaro hanno un enorme potere 
+[00:10:49.025] 
+I nostri client attuali hanno 100.000 righe di proof of stake.
 
-politico.Anche Lin Alden assume una posizione simile a quella di Adam Back,spiegando perché ritiene che la proof of stake imiti più gli asset azionari che quelli monetari.Se parliamo di ciò che rende un buon denaro, è 
+[00:10:54.145] 
+Credo che le basi teoriche
 
-qualcosa che è intrinsecamente semplicecon nodi piccoli che permettono un proof of work decentralizzato,in pratica il codice più snello che si possa ottenere e distribuito tra il maggiornumero di macchine possibile e il più 
+[00:10:57.585] 
+della proof of stake  abbiano richiesto tempo per maturare,
 
-immutabile possibile.Se invece ci sovrapponiamo cose come la proof of stake,aggiungiamo un sacco di complessità al codice, inoltre lo rende, come nel mio esempio precedente,più simile a una memoria volatile che a una 
+[00:11:00.945] 
+non è ovvio come renderla robusta,
 
-non volatile, che ha bisognodi essere continuamente sostenuta (mantenuta in vita), per poter funzionare come previsto.Quindi, quando si aggiungono questi elementi, direi che si toglie un premio monetario e si può sostenere 
+[00:11:03.825] 
+ci sono attacchi, come quelli a lungo termine,
 
-che si aggiunge un valore azionario.Ad esempio, se guardiamo alle azioni Apple, nel lungo periodo,come questa specie di meme del "ultrasound money" per Ethereum, si tratta di un fenomeno che si concentra principalmente 
+[00:11:05.985] 
+e cose che non esistono nella proof of work,
 
-sul fatto che si stiagonfiando o sgonfiando e in quale percentuale.Quindi, per esempio, le azioni Apple sono in realtà uno degli asset più deflazionistici in circolazione.
+[00:11:08.705] 
+che abbiamo dovuto analizzare e risolvere  e questo ha richiesto tempo,
 
-Ha un tasso di deflazione medio annuo del 4,5% negli ultimi dieci anni, il numero di azioni è sceso da 26 milioni a 16 milioni,e questo è ovviamente uno dei fattori per cui hanno ottenuto buoni risultati a livello di azioni.Ma alla 
+[00:11:14.585] 
+nel frattempo, ci siamo affidati al collaudato algoritmo proof of work,
 
-fine dei conti, quando si tratta
+[00:11:16.345] 
+che ha fatto funzionare bene Ethereum.
 
-di capire perché sono in borsa, è l'attrattiva del loro ecosistema per i clienti, non si tratta quindi di quante azioni hannoperché ci sono altre aziende come IBM che stanno riducendo rapidamente illoro numero di azioni, ma 
+[00:11:20.225] 
+Oltre a questa maggiore complessità, la fiducia e le superfici di attacco.
 
-visto che i loro
+[00:11:24.065] 
+Un altro rischio della proof of stake è la centralizzazione.
 
-ecosistemi non sono sani, non stanno creando un valore complessivo per le azioni.Perciò penso che, quando si tratta di
+[00:11:27.345] 
+Con un sistema proof of stake,
 
-capire cosa sta cercando di essere denaro,la cosa che non fa altro che essere denaro è il miglior denaro.E qualcosa che cerca di fare più cose, compresa la proof of stake come uno dei componenti, intrinsecamente
+[00:11:28.865] 
+più monete si hanno, più potere di voto si ha.
 
-dà meno premio monetario.In un sistema proof of work, il potere è distribuito tra minatori, sviluppatori e singoli nodi.La capacità di essere un minatore si basasulla capacità di investire denaro e di trovare elettricità a basso 
+[00:11:32.185] 
+E coloro che possiedono le coins sono
 
-costo.Invece di avere un vantaggio per i minatori di vecchia data e di aumentarlo nel tempo,i nuovi minatori hanno un vantaggio tecnico sui minatori esistenti perché acquistano nuove macchine con maggiore potenza di 
+[00:11:33.785] 
+anche quelli che ne guadagnano di nuove dalle puntate (staking).
 
-elaborazione.Se tu hai comprato un impianto di mining quattro anni fa e io ne ho comprato uno adesso,ho un vantaggio maggiore, o posso minare più monete.È una cosa rara, che il nuovo entrante ha un vantaggio
+[00:11:36.545] 
+Visto che non hanno bisogno di spendere
 
-rispetto a chi è dentro da più tempo, quindi, se sei arrivato quattro anni fa,per te è più difficile "catturare" e minare le monete rispetto a me.E credo che questo sia l'effetto, e quando si guarda alla proof of stake, è un po' 
+[00:11:38.185] 
+risorse per puntare, possono aumentare l'importo
 
-diverso.Se hai avuto accesso per primo alle
+[00:11:40.945] 
+delle loro puntate guadagnando continuamente coins dalle ricompense delle puntate stesse.
 
-monete, ora hai un vantaggio rispetto achi è appena arrivato e sta cercando
+[00:11:44.985] 
+In pratica, sarebbe come un sistema politico
 
-di "catturarle" e impiegarle nella rete.E così, grazie a questo sistema, le aziende di mining di bitcoin, vecchie e nuove,sono tutte in costante competizione tra loro.Questo è l'opposto della proof of stake, dove non c'è 
+[00:11:47.465] 
+In cui chi ha più soldi, ha più potere
 
-concorrenza.Una volta che si è in possesso dei token, si può mantenere il potere nel sistema per sempre.Inoltre, gli sviluppatori di bitcoin si sono impegnati a fondoper rendere facile ed economico gestire un full node, il che 
+[00:11:50.025] 
+e per ogni 100$ usati per votare,
 
-consente a qualsiasi utente di controllare l'intera blockchain e di rifiutare i blocchi che non sono conformi alle regole della rete.Di conseguenza, il vero potere spetta ai nodi piuttosto che ai minatori.Se i minatori cercano di 
+[00:11:52.545] 
+si ricevesse dal governo 1$ per aver votato.
 
-colludere e di estrarre blocchi non validi,la rete di nodi semplicemente rifiuta i loro blocchi.Il sistema è quindi simile alla Costituzione degli Stati Uniti, dove ci sono tre rami del governo.
+[00:11:57.225] 
+Supponiamo quindi che ci sia un'insegnante di scuola superiore
 
-Il ramo esecutivo, il ramo legislativo e il ramo giudiziario.Questi rami avrebbero la possibilità di scavalcarsi a vicenda in determinati contestie in aggiunta a questo scavalcamento, avrebbero limiti di mandato.È una scelta 
+[00:11:59.105] 
+con un patrimonio netto di 20.000$
 
-voluta, non si vuole che le persone politiche abbiano il potere per sempre,si vorrebbe votarli per farli uscire dall'incarico in favore di persone più nuove con nuove idee,ed è così che funzionano gli Stati Uniti.Quindi, come gli 
+[00:12:01.825] 
+Se votasse con tutti quei soldi,
 
-Stati Uniti, la rete bitcoin ha tre rami che limitano il potere reciproco.La rete dei nodi ha l'ultima parola sul consenso, ma si affida ai minatori per ordinare le transazionie agli sviluppatori per creare nuovi aggiornamenti accettati 
+[00:12:03.585] 
+riceverebbe 200 dollari dal governo per aver votato.
 
-sia dai minatori che dalla rete dei nodi.Molte altre blockchain adottano diversi compromessi, tra cui il fatto che i nodi richiedano grandi potenze di elaborazione, una larghezza di banda e grandi spazi di archiviazione, in modo 
+[00:12:06.345] 
+Mentre se ci fosse qualcuno come Jeff Bezos
 
-chesolo le grandi entità possano gestirli, centralizzando così la rete in una manciata di grandi fornitori.Il punto che voglio sottolineare è che anche questo è un pendio scivoloso, Come l'aumento dei requisiti del 10%, forse 
+[00:12:07.745] 
+con un patrimonio netto di 200 miliardi di dollari,
 
-l'aumento dell'ethereum del 10% all'annopuò avere un effetto fuori misura per cui improvvisamente il 90% delle personeche avrebbero mantenuto un nodo, non possono più farlo.
+[00:12:09.945] 
+se votasse con tutti quei soldi,
 
-Quindi non è lineare. E una volta che si inizia a percorrere questa strada, si inizia a pensare:"Beh, sai, è già difficile, quindi non è un grosso problema se lo rendiamo un po' più difficile".Ed è per questo che l'idea di aumentare 
+[00:12:12.785] 
+otterrebbe 2 miliardi di dollari dal governo per aver votato.
 
-la dimensione dei blocchi di bitcoin è così rischiosa.L'aumento della complessità del livello di base di una blockchain rende più difficileper un singolo individuo gestire un full node.Senza nodi completi, la blockchain si basa 
+[00:12:16.185] 
+Quindi, per un fattore di un milione di volte, Jeff Bezos 
 
-maggiormente sulla fiduciae molto meno sulla decentralizzazione.La proof of work di Bitcoin e il design a blocchi piccoli mantengono il potere nelle mani dei singoli utenti.La "block size war" nel 2017 è stata un test reale del 
+[00:12:20.425] 
+sarebbe un cittadino più prezioso dell'insegnante di scuola superiore e
 
-livello di decentralizzazione di Bitcoin.Fin dai primi anni di vita della rete, c'è stata una crescente divisione tra coloroche volevano aumentare la dimensione dei blocchi e coloro che volevano mantenerla piccola.
+[00:12:22.585] 
+verrebbe pagato un milione di volte in più
+
+[00:12:25.345] 
+dal sistema per essere già ricco.
+
+[00:12:29.585] 
+Alla fine, è probabile che il potere vada a consolidarsi
+
+[00:12:31.545] 
+nelle mani di una manciata di multimiliardari,
+
+[00:12:34.385] 
+che controllano la maggior parte dei voti ed in pratica l'intero sistema,
+
+[00:12:35.825] 
+se il sistema diventa troppo centralizzato,
+
+[00:12:38.585] 
+questo vanifica lo scopo di una blockchain decentralizzata.
+
+[00:12:42.265] 
+Invece, il sistema della proof of stake funziona bene soprattutto per
+
+[00:12:45.105] 
+Le partecipazioni in proprietà private centralizzate come le società.
+
+[00:12:49.545] 
+In una società,
+
+[00:12:50.825] 
+ogni azione vale un voto per le proposte e per i posti nel consiglio di
+
+[00:12:53.745] 
+amministrazione, ed i proprietari decidono
+
+[00:12:55.665] 
+cosa fare della società in proporzione alla loro proprietà
+
+[00:12:58.985] 
+Supponiamo quindi che siano più simili a una società.
+
+[00:13:02.065] 
+In questo caso, il modello della proof of stake
+
+[00:13:04.105] 
+non è un male per le criptovalute, che possono essere utilizzate per la sperimentazione,
+
+[00:13:07.705] 
+In effetti, la proof of stake
+
+[00:13:09.545] 
+può aumentare il costo degli attacco al protocollo,
+
+[00:13:11.825] 
+poiché gli aggressori dovrebbero acquisire molte monete.
+
+[00:13:15.225] 
+Ma ovviamente saranno inclini alla centralizzazione.
+
+[00:13:18.025] 
+Ma questo può andare bene se c'è concorrenza.
+
+[00:13:20.625] 
+se il loro servizio non è buono, la gente può andare altrove.
+
+[00:13:23.665] 
+Il creatore della prova di lavoro, Adam Back,
+
+[00:13:25.745] 
+descrive il motivo per cui ritiene che la proof of work
+
+[00:13:28.465] 
+supera la proof of stake quando cerca di essere un asset simile al denaro.
+
+[00:13:33.025] 
+È un sistema che funziona perché il denaro ha un costo.
+
+[00:13:36.505] 
+Penso che il denaro che non ha un costo finisca per essere di natura politica.
+
+[00:13:41.225] 
+Quindi le persone più vicine al denaro,
+
+[00:13:43.185] 
+per il cosiddetto "Cantillon Effect", saranno avvantaggiate.
+
+[00:13:47.145] 
+Le persone che hanno la possibilità di
+
+[00:13:48.985] 
+creare più denaro hanno un enorme potere politico.
+
+[00:13:51.465] 
+Anche Lyn Alden prende una posizione
+
+[00:13:53.305] 
+simile a quella di Adam Back, spiegando perché pensa che la proof of stake
+
+[00:13:56.625] 
+imiti più gli asset azionari che quelli monetari.
+
+[00:14:01.025] 
+Ciò che rende (una crypto) buon denaro,  è l'intrinseca semplicità (del sistema)
+
+[00:14:04.465] 
+con nodi piccoli che permettono un  proof of work decentralizzato,
+
+[00:14:09.305] 
+usare un codice il più semplice possibile, distribuito tra il maggior numero di macchine possibili
+
+[00:14:13.105] 
+e il più immutabile possibile.
+
+[00:14:15.465] 
+Se invece sovrapponiamo cose come la proof of stake,
+
+[00:14:17.905] 
+aggiungiamo un sacco di complessità al codice,
+
+[00:14:20.345] 
+il che lo rende, come nel mio esempio precedente,
+
+[00:14:22.185] 
+più simile a una memoria volatile che a una non volatile.
+
+[00:14:24.785] 
+di essere continuamente sostenuta (mantenuta in vita), per poter funzionare come previsto.
+
+[00:14:29.465] 
+Quindi, quando si aggiungono questi elementi, direi che si toglie
+
+[00:14:33.825] 
+un "premio monetario" e si può sostenere che si aggiunge un valore azionario.
+
+[00:14:37.985] 
+Ad esempio, se guardiamo alle azioni Apple, nel lungo periodo,
+
+[00:14:44.825] 
+come questa specie di meme del "ultrasound money" per Ethereum,
+
+[00:14:48.305] 
+si tratta di un fenomeno che si concentra principalmente sul fatto che si stia
+
+[00:14:51.425] 
+gonfiando o sgonfiando e in quale percentuale.
+
+[00:14:53.945] 
+Quindi, per esempio, le azioni Apple sono in realtà uno degli asset più deflazionistici in circolazione,
+
+[00:14:58.385] 
+hanno un tasso di deflazione medio annuo del 4,5%
+
+[00:15:01.945] 
+negli ultimi dieci anni, il numero di azioni è sceso da 26 milioni a 16 milioni,
+
+[00:15:06.065] 
+e questo è uno dei motivi per cui le loro azioni hanno ottenuto buoni risultati (come quotazione)
+
+[00:15:09.825] 
+Ma alla fine dei conti, per capire perché  le loro azioni hanno valore,
+
+[00:15:13.465] 
+bisogna guardare all'attrattiva del loro ecosistema per i clienti, non si tratta quindi di quante azioni ci siano
+
+[00:15:17.425] 
+perché ci sono altre aziende
+
+[00:15:20.545] 
+come IBM che stanno riducendo rapidamente il
+
+[00:15:22.225] 
+loro numero di azioni, ma visto che i loro ecosistema non è così apprezzato,
+
+[00:15:25.425] 
+non stanno creando un reale valore per le azioni.
+
+[00:15:29.465] 
+Perciò penso che, quando si tratta di capire cosa sta cercando di essere denaro,
+
+[00:15:33.945] 
+quello che cerca di essere null'altro che denaro è il miglior denaro.
+
+[00:15:38.305] 
+E chi invece che cerca di fare più cose, compresa la proof of stake
+
+[00:15:42.265] 
+come uno dei componenti, intrinsecamente dà meno "premio monetario".
+
+[00:15:45.985] 
+In un sistema di proof of work,
+
+[00:15:47.665] 
+il potere è distribuito tra minatori, sviluppatori e singoli nodi.
+
+[00:15:52.385] 
+La capacità di essere un minatore si basa
+
+[00:15:54.465] 
+sulla capacità di investire denaro e di trovare elettricità a basso costo.
+
+[00:15:58.785] 
+I vecchi miners, non hanno un vantaggio e non lo aumentano nel tempo,
+
+[00:16:02.625] 
+sono i nuovi minatori ad avere un vantaggio tecnico sui minatori esistenti
+
+[00:16:08.145] 
+perché acquistano nuove macchine con maggiore potenza di elaborazione.
+
+[00:16:11.225] 
+Se tu hai comprato un impianto di mining 4 anni fa e io ne compro uno adesso,
+
+[00:16:15.425] 
+ho un vantaggio maggiore, o posso minare più monete.
+
+[00:16:19.865] 
+È una cosa rara, che il nuovo entrante ha un vantaggio rispetto a chi è dentro da più tempo,
+
+[00:16:27.065] 
+quindi, se sei arrivato quattro anni fa,
+
+[00:16:29.145] 
+per te sarà più difficile "catturare" e minare le monete rispetto a me.
+
+[00:16:32.665] 
+Penso invece che quando si guarda alla proof of stake, succede una cosa diversa
+
+[00:16:37.745] 
+Se hai avuto accesso per primo alle monete (coins),
+
+[00:16:39.665] 
+hai un vantaggio rispetto a chi è appena arrivato
+
+[00:16:43.945] 
+e sta cercando di ottenerle (le coins) per impiegarle nella rete.
+
+[00:16:47.585] 
+E così, grazie a questo sistema, le aziende di mining di bitcoin, vecchie e nuove,
+
+[00:16:52.025] 
+sono tutte in costante competizione tra loro.
+
+[00:16:54.985] 
+Questo è l'opposto della proof of stake, dove non c'è concorrenza.
+
+[00:16:59.225] 
+Una volta che si è in possesso dei token, si può mantenere il potere nel sistema per sempre.
+
+[00:17:04.625] 
+Inoltre, gli sviluppatori di bitcoin si sono impegnati a fondo
+
+[00:17:06.625] 
+per rendere facile ed economico gestire un full node,
+
+[00:17:09.505] 
+il che consente a qualsiasi utente di  monitorare l'intera blockchain
+
+[00:17:11.505] 
+e rifiutare i blocchi che non sono conformi alle regole della rete.
+
+[00:17:17.705] 
+Di conseguenza, il vero potere spetta ai nodi piuttosto che ai minatori.
+
+[00:17:22.185] 
+Se i minatori cercano di coalizzarsi e estrarre blocchi non validi,
+
+[00:17:24.945] 
+la rete di nodi semplicemente rifiuta i loro blocchi.
+
+[00:17:28.625] 
+Il sistema è quindi simile alla Costituzione degli Stati Uniti, dove ci sono tre rami del governo.
+
+[00:17:33.425] 
+Il ramo esecutivo, il ramo legislativo e il ramo giudiziario.
+
+[00:17:37.665] 
+Questi rami avrebbero la possibilità di scavalcarsi a vicenda in determinati contesti
+
+[00:17:43.225] 
+ma in aggiunta a questo hanno anche dei limiti di mandato.
+
+[00:17:47.225] 
+È una scelta voluta, non si vuole che le persone politiche abbiano il potere per sempre,
+
+[00:17:52.865] 
+e si vuole avere la possibilità di mandarli a casa, votando in favore di nuove persone con nuove idee
+
+[00:17:57.465] 
+ed è così che funzionano gli Stati Uniti.
+
+[00:17:59.745] 
+Quindi, come gli Stati Uniti, la rete bitcoin ha tre attori che limitano il loro potere reciprocamente.
+
+[00:18:05.705] 
+La rete dei nodi ha l'ultima parola sul consenso, ma si affida ai minatori per ordinare le transazioni
+
+[00:18:10.145] 
+e agli sviluppatori per creare nuovi aggiornamenti accettati sia dai minatori che dalla rete dei nodi.
+
+[00:18:17.105] 
+Molte altre blockchain adottano diversi compromessi, tra cui il fatto che i nodi richiedano grandi
+
+[00:18:19.385] 
+potenze di elaborazione, elevata larghezza di banda e grandi spazi di archiviazione, in modo che
+
+[00:18:23.265] 
+solo le grandi entità possano gestirli, centralizzando così la rete in una manciata di grandi providers.
+
+[00:18:32.345] 
+Il punto che voglio sottolineare è che
+
+[00:18:33.465] 
+anche questo è un "terreno scivoloso",
+
+[00:18:34.745] 
+Con l'aumento dei requisiti del 10%, Ethereum cresce circa del 10% all'anno (come requisiti)
+
+[00:18:39.345] 
+questo può avere un effetto a cascata per cui improvvisamente il 90% delle persone
+
+[00:18:42.865] 
+che avrebbero mantenuto un nodo, non possono più farlo.
+
+[00:18:45.145] 
+E una volta che si inizia a percorrere questa strada, si inizia a pensare:
+
+[00:18:48.425] 
+"Beh, sai, è già difficile, quindi non è un grosso problema se lo rendiamo un po' più difficile",
+
+
+[00:18:54.785] 
+ed è per questo che l'idea di aumentare la dimensione dei blocchi di bitcoin è così rischiosa.
+
+[00:18:58.945] 
+L'aumento della complessità del livello di base di una blockchain rende più difficile
+
+[00:19:03.945] 
+per un singolo individuo gestire un full node.
+
+[00:19:06.425] 
+Senza full node, la blockchain si basa maggiormente sulla fiducia
+
+[00:19:07.945] 
+e molto meno sulla decentralizzazione.
+
+[00:19:10.105] 
+La proof of work di Bitcoin e i blocchi piccoli mantengono il potere nelle mani dei singoli utenti.
+
+[00:19:18.505] 
+La "block size war" nel 2017 è stato un importante test del livello di decentralizzazione di Bitcoin.
+
+[00:19:24.745] 
+tra coloro che volevano aumentare la dimensione dei blocchi e coloro che volevano mantenerla piccola.
+
+
