@@ -1,147 +1,581 @@
-Nell'inverno del 2009, un software
+[00:00:01.680] 
+Nell'inverno del 2009, un software è stato rilasciato su Internet.
 
-è stato rilasciato su Internet,la moneta digitale chiamata bitcoin.Come gettare acqua sull'olio
+[00:00:05.640] 
+la moneta digitale chiamata Bitcoin.
 
-bruciato, si è incendiato.E questa è la storia più
+[00:00:09.000] 
+Come gettare acqua sull'olio bruciato, si è incendiato.
 
-importante di questo decennio.Bitcoin ha fatto il giro del mondo,diffondendosi a macchia d'olio e
+[00:00:12.440] 
+E questa è la storia più importante di questo decennio.
 
-sconvolgendo tutto ciò che toccava.Nessuno sapeva cosa fosse, nessuno sapevacome valutarlo e nessuno poteva controllarlo.
+[00:00:15.880] 
+Il Bitcoin ha fatto il giro del mondo,
 
+[00:00:18.440] 
+diffondendosi a macchia d'olio e sconvolgendo tutto ciò che toccava.
+
+[00:00:22.320] 
+Nessuno sapeva cosa fosse,
+
+[00:00:23.560] 
+nessuno sapeva come valutarlo e nessuno poteva controllarlo.
+
+[00:00:26.800] 
 E come ogni nuova tecnologia, ha suscitato reazioni contrastanti.
 
-L'intero mercato dei bitcoin è di circa un miliardo di dollari.È una novità per la squadra degli smanettoni.Oltre a tutti
+[00:00:29.720] 
+L'intero mercato dei bitcoin è di circa un miliardo di dollari.
 
-questi attacchi, i criticisi sono scagliati contro il suo consumo energetico.Proprio così. Bitcoin consuma energia.Bitcoin in generale
+[00:00:31.760] 
+È una novità per la squadra dei nerd.
 
-è uno spreco di design.Bitcoin utilizza un sistema chiamatoproof of work, che richiede
+[00:00:33.600] 
+Oltre a tutti questi attacchi, i critici
 
-energia per funzionare.Bitcoin consuma più energia di paesicome l'Ucraina, la Norvegia, la
+[00:00:35.360] 
+si sono scagliati contro il suo consumo energetico.
 
-Svezia, l'Argentina o le Filippine.Se avete appena sentito questi paragoni,
+[00:00:37.640] 
+Proprio così. Il Bitcoin consuma energia.
 
-probabilmente sarete scioccati.Ed è qui che entra ingioco la proof of stake.Credo che dall'altra parteci siano grandi cose.Il numero uno è ovviamente la Proof of Stake, molto più efficiente,molto più sicuro, molto meno "Tree killer" (assassina alberi).Migliaia di nuove criptovalute utilizzanoquesto nuovo modello di proof of stake,
+[00:00:40.720] 
+Bitcoin in generale è dispendioso by design.
 
-che promette di essere superiore allavecchia tecnologia proof of work
+[00:00:43.720] 
+Bitcoin utilizza un sistema chiamato
 
-ad alta intensità energetica.C'è solo un problema.È vero o si tratta di false promesse?Uno dei miei problemi con la proof of stake,nel modo in cui è stata presentata
+[00:00:45.800] 
+proof of work (prova di lavoro), che richiede energia per funzionare.
 
-e con la roadmap di Ethereum, è che pensoche i rischi non siano stati discussi in
+[00:00:48.600] 
+Bitcoin consuma più energia dei paesi
 
-modo aperto e intellettualmente onesto.In questo video vedremo le differenze tra
+[00:00:50.760] 
+come Ucraina, Norvegia, Svezia, Argentina o le Filippine.
 
-proof of work e proof of stake, i problemilegati a ciascuna di esse e se
+[00:00:55.600] 
+Se avete appena sentito parlare di questi paragoni, probabilmente sarete scioccati.
 
-una è più efficiente dell'altra.Spesso i vantaggi della proof of stakevengono descritti senza riconoscere i suoi
+[00:00:59.040] 
+Ed è qui che entra in gioco la proof of stake.
 
-svantaggi rispetto alla proof of work.Per capire questi svantaggi, dobbiamoinnanzitutto capire cos'è la proof of work.La rete bitcoin è programmata per creare un nuovo blocco ogni dieci minuti aggiungendolo alla blockchain.Un nuovo blocco viene prodotto da un miner di bitcoin, che contribuisce con la sua potenzadi elaborazione a risolvere un puzzle crittografico creato dal blocco precedente.A questo punto, il miner può impacchettaremigliaia di transazioni bitcoin in quel blocco. È così che le transazioni vengono regolate.Il canale YouTube three blue one brown
+[00:01:01.480] 
+Credo che dall'altra parte ci siano grandi cose.
 
-spiega l'altra metà della proof of work.In questo breve filmato.
+[00:01:03.440] 
+La Proof of Stake ovviamente è,  molto più efficiente,
 
-Precedente, ho dettoche la prova di lavoro potrebbe essere
+[00:01:06.480] 
+molto più sicura, molto meno "Tree killer" (assassina alberi).
 
-quella di trovare un numero speciale inmodo che l'hash del blocco inizi con 60 zeri.Ebbene, il modo in cui funziona il protocollo bitcoinè quello di cambiare periodicamente il numero di zeri,in modo che ci vogliano in media dieci
+[00:01:13.080] 
+Migliaia di nuove criptovalute utilizzano questo nuovo modello di proof of stake,
 
-minuti per trovare un nuovo blocco.Quindi, man mano che si aggiungono sempre più minatori alla rete,la sfida diventa sempre più difficile, in modo tale che questa lotteria in miniaturaabbia un solo vincitore ogni dieci minuti.Ciò che "three blue one brown" hanno appena
+[00:01:16.920] 
+che promette di essere superiore alla
 
-descritto è noto come aggiustamento della difficoltà, che avviene
+[00:01:19.000] 
+"vecchia" tecnologia proof of work ad alta intensità energetica.
 
-automaticamente ogni due settimane.Questo aggiustamento della difficoltà assicura che l'offerta di bitcoin rimanga limitata.Preston Pitch, investitore di valore e
+[00:01:22.640] 
+C'è solo un problema.
 
-conduttore di podcast, spiega perchéun'emissione di difficoltà è
+[00:01:24.320] 
+È vero o si tratta di false promesse?
 
-importante per il bitcoin.Se penso a ciò che ha funzionato storicamente prima che entrassimo nello spazio digitale,il motivo per cui l'oro funziona così bene è che è davvero difficile trovarne un'oncia nella crosta terrestre, a causa della sua distribuzione e della quantità che c'è.Quindi, se si guarda al motivo per cuil'oro è servito a questo scopo, è molto
+[00:01:27.640] 
+Uno dei miei problemi con la proof of stake,
 
-ovvio dal punto di vista della scarsità.Se poi si considera il lavoro che è stato
+[00:01:28.800] 
+nel modo in cui è stata presentata, 
 
-necessario, esempio usare una pala o altroper estrarlo dal terreno, si capisce subito
+[00:01:30.760] 
+nel modo in cui è stata presentata nella roadmap di Ethereum, è che penso
 
-come ha fatto a raggiungere il suo valore.Proprio come l'estrazione dell'oro, i minatori di bitcoin impiegano lavoro
+[00:01:34.040] 
+che i rischi non siano stati discussi in modo aperto e intellettualmente onesto.
 
-o energia per estrarre nuovi bitcoin.E proprio come le persone apprezzano l'oro
+[00:01:37.280] 
+In questo video,
 
-per la sua rarità, le persone apprezzano Bitcoinperché è scarso e difficile da trovare.Questo processo è noto come proof of work.Milioni di macchine utilizzano l'elettricitàper applicare la potenza di elaborazione al fine di indovinare la risposta a unpuzzle crittografico che proviene dal blocco più recente.Questo può sembrare uno spreco di energia,ma è ciò che mantiene il sistema decentralizzato.Nessuna autorità centrale determina
+[00:01:38.240] 
+vedremo le differenze tra proof of work e proof of stake,
 
-un insieme valido di transazioni.Più energia viene utilizzata da bitcoin,più le sue ultime transazioni sono sicure
+[00:01:42.000] 
+i problemi legati a ciascuna di esse e se una è più efficiente dell'altra.
 
-contro la maggior parte degli attacchi.Molte altre blockchain sono state
+[00:01:46.400] 
+Spesso i compromessi della proof of stake
 
-vittime di attacchi al 51%, in cui unasingola entità ottiene temporaneamente o
+[00:01:48.720] 
+vengono descritti senza riconoscere i suoi svantaggi rispetto alla proof of work.
 
-permanentemente il controllo del 51% dellapotenza di elaborazione della rete e
+[00:01:52.640] 
+Per capire questi svantaggi, dobbiamo
 
-utilizza la maggiorparte di quella potenzaper riorganizzare i blocchi
+[00:01:54.960] 
+innanzitutto capire cos'è la proof of work.
 
-ed eseguire transazioni a doppia spesa.Questo mostra il consumo energetico di bitcoin rispetto a quello di altre copie clone.Queste altre blockchain hanno solo l'1% o meno della potenza di elaborazione di bitcoin.Quindi, se solo l'1% dei minatori di
+[00:01:57.680] 
+La rete bitcoin è programmata
 
-bitcoin decide di effettuare un attacco al 51% su una di queste due hard fork, può farlo.Tuttavia, lo stesso non si può fare al contrario.Poiché la rete bitcoin consuma molta più energia,ciò dimostra l'importanza degli effetti di rete e il motivo per cuil'utilizzo di energia di bitcoin ne ha garantito la sicurezza.Il consumo di energia del bitcoin può anche aiutare le reti elettriche globali.Come spiega l'investitore macro Lyn Alden.Se guardiamo a lungo termine, la direzione in cui stiamo andando,a mio avviso, nel proof of work, supponendo che questi sistemi continuinoa esistere per un bel po', è che si assisterà a una crescente integrazionetra i minatori e gli stessi produttori di energia.Vediamo già, per esempio, i primi segni di "colocazione" in cui un produttore di energia,che può essere solare, idroelettrica o di altro tipo, ha dei minatori di bitcoin in loco.Spesso stipulano un contratto con un miner per la colocazione,ma potrebbero facilmente farlo in un modello integrato verticalmente.Il modo in cui funziona la rete elettrica, e questo è un aspettoche molte critiche ambientali alla proof
+[00:01:59.440] 
+per creare un nuovo blocco ogni dieci minuti aggiungendolo alla blockchain.
 
-of work non capiscono, è che la rete elettricadeve per sua natura produrre elettricità in eccesso,altrimenti, se non avessimo una capacità
+[00:02:04.320] 
+Un nuovo blocco viene prodotto da un miner
 
-produttiva extra, l'accensione di unlaptop causerebbe un calo di tensione,
+[00:02:05.920] 
+di bitcoin, che con la sua potenza di calcolo.
 
-quindi dobbiamo avere questa produzione diriserva che viene sempre immessa nella
+[00:02:08.400] 
+contribuisce a per risolvere un puzzle crittografico creato dal blocco precedente.
 
-rete e poi dobbiamo avere un modo perdissipare l'energia in eccesso che
+[00:02:12.120] 
+A questo punto, il miner può impacchettare
 
-viene prodotta ma non consumata.Si tratta di un equilibrio davvero complicato,per questo i sistemi di proof of work sono
+[00:02:14.160] 
+migliaia di transazioni bitcoin in quel blocco.
 
-un ottimo bilanciatore di carico, se si utilizza una fonte di energia che non ha
+[00:02:17.080] 
+È così che le transazioni vengono aggiunte.
 
-il pieno controllo della propriaproduzione, come un parco eolico, una
+[00:02:19.240] 
+Il canale YouTube 3Blue1Brown spiega l'altra metà della proof of work.
 
-diga idroelettrica o un impianto solare,o magari avete una centrale nucleare
+[00:02:23.360] 
+In questo breve filmato.
+-Ho spiegato come
 
-che ha una produzione continua,ma la domanda fluttua durante l'arco della giornata,quindi la sera c'è più richiesta,
+[00:02:25.720] 
+la proof of work consiste (semplificando) 
 
-meno richiesta in altre fasce orarie,credo che col passare del tempo vedremo le fonti di elettricità più economiche,l'energia "incagliata" a costo praticamente zero.E i migliori a sfruttarla sono i minersche contrattano direttamente con
+[00:02:27.280] 
+nel trovare un numero speciale (nonce) in modo che l'hash del blocco inizi con 60 zeri.
 
-i produttori andando sul postoe quindi credo che nel tempo questo siaciò che rende il sistema il più diversificato possibile, al momento, l'ultima volta che ho controllato, la più grande mining farm al mondorappresenta circa l'1% del tasso di hashrate totale.È già un sistema strutturalmente
+[00:02:31.600] 
+Ebbene, il modo in cui funziona  il protocollo bitcoin
 
-decentralizzato e credo che lo diventisempre di più man mano che lo
+[00:02:33.560] 
+è quello di cambiare periodicamente
 
-si incorpora nella produzione.Fin dalla sua nascita, la rete bitcoin haoperato con il sistema proof of work
+[00:02:35.120] 
+il numero di zeri in modo che ci vogliano
 
-e non ha in programma di cambiare.Anche la rete Ethereum opera
+[00:02:37.520] 
+in media, dieci minuti per trovare un nuovo blocco.
 
-con il proof of work,ma ha in programma di passare
+[00:02:41.120] 
+Quindi, man mano che si aggiungono sempre più minatori alla rete,
 
+[00:02:43.520] 
+la sfida diventa sempre più ardua, in modo tale che
 
-a un sistema di proof of stake.Ma cos'è il proof of stake?la proof of stake è un sistema in cui i
+[00:02:47.480] 
+che questa “lotteria in miniatura” abbia un solo vincitore ogni dieci minuti.
 
-possessori di cripto usano le loro moneteper votare sulla blockchain valida e vengono ricompensaticon più monete per aver creato
+[00:02:51.800] 
+Ciò che "3Blue1Brown" ha appena
 
-con successo nuovi blocchi.Quindi, invece di impegnare l'elettricitàper creare nuovi blocchi,
+[00:02:53.680] 
+descritto è noto come aggiustamento della difficoltà,
 
-impegnano le loro monete (coins).La proof of work è semplice perché non c'è bisogno di punire i minatori cattiviche cercano di convalidare i blocchi sbagliatiche non si adattano alle regole del protocollo.La loro punizione consiste nel fatto che hanno speso energia elettricaper blocchi non validi, perdendo così denaro, così finirebbero per auto-punirsi, quindi succede raramente.
+[00:02:56.120] 
+che avviene automaticamente ogni due settimane.
 
-La proof of stake è più complessa perché non c'è una connessionecon le risorse del mondo reale.Senza una connessione alle risorse del
+[00:02:59.040] 
+Questo aggiustamento della difficoltà
 
-mondo reale, come l'energia, gli stakerpossono attaccare la blockchain
+[00:03:00.880] 
+assicura che l'offerta di bitcoin rimanga limitata.
 
-senza essere puniti.La Proof of stake risolve questo problematogliendo le monete agli staker
+[00:03:03.440] 
+Preston Pitch, value investor e podcaster, spiega perché
 
-se votano in modo improprio,questa soluzione comporta alcuni compromessi, uno dei quali è la complessità.Uno sviluppatore di Ethereum ha
+[00:03:05.360] 
+spiega perché un'emissione
 
-recentemente descritto i problemi di complessità del sistema proof of stake.Nella storia di Ethereum, la
+[00:03:07.880] 
+un'emissione legata alla difficoltà è importante per il bitcoin.
 
-complessità non è mai diminuita,ogni EIP è un accumulo di complessità,ogni cambiamento importante è una complicazione in più,sono estremamente frustrato quando una proposta di ricerca dice che è tutto risolto,è solo ingegneria.Ora, devo sottolineare che Ethereum non
+[00:03:11.040] 
+Se penso a ciò che ha funzionato storicamente che entrassimo
 
-sta andando in una direzione pulita,tangenzialmente sta ottenendo risultati,ma sta anche accumulando complessità
+[00:03:15.280] 
+nel mondo digitale, il motivo per cui l'oro “funziona” è che è davvero difficile da trovare
 
-come se non ci fosse un domani,se il protocollo non diventa
+[00:03:19.080] 
+per via della sua quantità e distribuzione nella crosta terrestre.
 
-più leggero, non ce la farà.Siamo già oltre il punto in cui chiunque
+[00:03:27.800] 
+Quindi, se si guarda al motivo per cui l'oro è servito
 
-può avere un quadro completo del sistema,questo è un male. Non posso dire quale sia la soluzione, mai miei due centesimi sono: smettere di
+[00:03:30.520] 
+a questo scopo, risulta ovvio, dal punto di vista della sua scarsità.
 
-aggiungere funzioni e iniziare ad eliminarle,anche a costo di rompere le cose. Ci sono sempre meno persone che sanno e
+[00:03:34.120] 
+Se poi si considera il lavoro che è stato necessario, (esempio usare una pala)
 
-sono disposte a mettere insieme i pezzi diuna rete rotta, e ogni cambiamento
+[00:03:41.480] 
+per estrarlo dal terreno, si capisce il motivo di come abbia acquisito valore.
 
-ne allontana sempre di più.L'ultima frase va presa sul serio,uno sviluppatore principale di Ethereum ha
+[00:03:46.600] 
+Proprio come l'estrazione dell'oro,
 
-detto che se il protocollo continua adiventare sempre più complesso, sempre
+[00:03:47.920] 
+I minatori di bitcoin impiegano lavoro ed energia per estrarre nuovi bitcoin.
 
-meno sviluppatori saranno in grado dicoglierne la complessità, mettendo a rischio il sistema.
+[00:03:52.440] 
+E proprio come le persone apprezzano l'oro per la sua
+
+[00:03:54.560] 
+rarità, le persone apprezzano il bitcoin perché è scarso e difficile da trovare.
+
+[00:03:59.440] 
+Questo processo è noto come proof of work.
+
+[00:04:02.040] 
+Milioni di macchine utilizzano
+
+[00:04:03.440] 
+l'elettricità e la loro potenza di elaborazione al fine di indovinare
+
+[00:04:06.600] 
+la risposta a un puzzle crittografico proveniente dal blocco più recente.
+
+[00:04:11.080] 
+Questo può sembrare uno spreco di energia,
+
+[00:04:13.160] 
+ma è ciò che mantiene il sistema decentralizzato.
+
+[00:04:15.640] 
+Nessuna autorità centrale determina quali siano le transazioni valide.
+
+[00:04:19.920] 
+Più energia viene utilizzata da bitcoin,
+
+[00:04:22.240] 
+più le sue ultime transazioni sono sicure
+
+[00:04:24.440] 
+contro la maggior parte dei tipi di attacchi.
+
+[00:04:26.920] 
+Molte altre blockchain sono state
+
+[00:04:29.000] 
+vittime di attacchi al 51% in cui una
+
+[00:04:31.120] 
+singola entità ottiene temporaneamente o permanentemente
+
+[00:04:34.480] 
+il controllo del 51% della potenza di
+
+[00:04:36.840] 
+calcolo della rete e utilizza la maggior parte di quella potenza
+
+[00:04:41.880] 
+per riorganizzare i blocchi ed eseguire transazioni di doppia spesa.
+
+[00:04:45.880] 
+Questo mostra il consumo di energia di bitcoin rispetto a
+
+[00:04:48.160] 
+quello di altre copie clone (BCH e BSV)
+
+[00:04:51.480] 
+Queste altre altre blockchain hanno solo l'1% o meno
+
+[00:04:54.000] 
+della potenza di calcolo totale di bitcoin.
+
+[00:04:56.920] 
+Quindi, se solo l'1% dei minatori di bitcoin decide di
+
+[00:05:00.000] 
+di effettuare un attacco al 51% su una di queste due copie, possono farlo.
+
+[00:05:04.680] 
+Tuttavia, lo stesso non vale al contrario
+
+[00:05:07.440] 
+Poiché la rete bitcoin consuma
+
+[00:05:09.320] 
+molta più energia, ciò dimostra l'importanza
+
+[00:05:11.640] 
+degli effetti di rete e e il motivo per cui l’utilizzo di energia in bitcoin ne ha garantito la sicurezza.
+
+[00:05:15.960] 
+Il consumo energetico di bitcoin
+
+[00:05:17.640] 
+può anche aiutare le reti elettriche mondiali
+
+[00:05:19.920] 
+Come spiega la macro investor Lyn Alden.
+
+[00:05:23.280] 
+Se guardiamo a lungo termine, la direzione in cui stiamo andando,
+
+[00:05:26.200] 
+a mio avviso, nel proof of work, supponendo che questi sistemi continuino ad esistere
+
+[00:05:31.280] 
+è che si assisterà a una crescente integrazione
+
+[00:05:33.440] 
+tra i minatori e gli stessi produttori di energia.
+
+[00:05:37.080] 
+Vediamo già, per esempio,
+
+[00:05:38.640] 
+i primi segni di "co-locazione" in cui
+
+[00:05:40.880] 
+un produttore di energia, che può essere solare
+
+[00:05:44.360] 
+idroelettrica o di altro tipo,
+
+[00:05:46.000] 
+ha dei minatori di bitcoin in loco.
+
+[00:05:48.680] 
+Spesso stipulano un contratto con un miner per la co-locazione,
+
+[00:05:52.440] 
+ma potrebbero facilmente farlo in un modello integrato verticalmente
+
+[00:05:55.480] 
+Il modo in cui funziona la rete elettrica, e questo è un aspetto
+
+[00:05:57.880] 
+che molti ambientalisti detrattori della proof of work non capiscono,
+
+[00:06:01.760] 
+È che la rete elettrica è naturalmente
+
+[00:06:03.240] 
+deve per sua natura produrre elettricità in eccesso,
+
+[00:06:05.680] 
+altrimenti, se non avessimo una capacità produttiva extra, anche l'accensione di un
+
+[00:06:09.760] 
+laptop causerebbe un calo di tensione,
+
+[00:06:12.360] 
+quindi dobbiamo avere questa produzione di riserva
+
+[00:06:15.440] 
+che viene sempre immessa in rete e poi dobbiamo avere un modo per
+
+[00:06:19.920] 
+dissipare l'energia in eccesso che viene prodotta ma non consumata.
+
+[00:06:21.960] 
+Si tratta di un equilibrio davvero complicato,
+
+[00:06:24.800] 
+per questo la proof of work è ottima
+
+[00:06:26.920] 
+per bilanciare il carico elettrico, se si utilizza una fonte di energia
+
+[00:06:31.200] 
+che non ha il pieno controllo della propria
+
+[00:06:33.040] 
+produzione, come un parco eolico,
+
+[00:06:35.400] 
+una diga idroelettrica o un impianto solare,
+
+[00:06:37.480] 
+oppure una centrale nucleare che ha una produzione di energia costante,
+
+[00:06:42.200] 
+ma la domanda fluttua durante l'arco della giornata,
+
+[00:06:45.480] 
+quindi la sera c'è più richiesta, meno richiesta in altre fasce orarie,
+
+[00:06:50.120] 
+credo che col passare del tempo vedremo le fonti di elettricità più economiche,
+
+[00:06:53.880] 
+con energia "incagliata" a costo praticamente zero,
+
+[00:06:58.400] 
+venire sfruttate dai miners, che sono i migliori candidati 
+
+[00:07:00.640] 
+perchè contrattano direttamente con i produttori andando sul posto
+
+[00:07:05.520] 
+e quindi credo che nel tempo questo sia
+
+[00:07:08.400] 
+ciò che rende il sistema il più diversificato possibile,
+
+[00:07:10.880] 
+al momento, l'ultima volta che ho controllato,
+
+[00:07:13.240] 
+la più grande mining farm al mondo
+
+[00:07:14.640] 
+rappresentava circa l'1% del tasso di hashrate totale.
+
+[00:07:16.960] 
+È già un sistema strutturalmente decentralizzato e credo che lo diventerà
+
+[00:07:21.200] 
+sempre di più man mano che lo si incorpora nella produzione.
+
+[00:07:25.080] 
+Fin dalla sua nascita, la rete bitcoin
+
+[00:07:27.280] 
+ha operato con il sistema proof of work e non ha in programma di cambiare.
+
+[00:07:31.080] 
+Anche la rete Ethereum opera (al momento del video) con il proof of work,
+
+[00:07:33.200] 
+ma ha in programma di passare alla proof of stake.
+
+[00:07:37.880] 
+Ma cos'è la proof of stake?
+
+[00:07:40.240] 
+la proof of stake è un sistema in cui i possessori di cripto usano le loro monete
+
+[00:07:44.120] 
+per votare sulla blockchain valida e vengono ricompensati
+
+[00:07:47.080] 
+con più monete per aver creato con successo nuovi blocchi.
+
+[00:07:51.120] 
+Quindi, invece di impegnare l'elettricità
+
+[00:07:53.000] 
+per creare nuovi blocchi, impegnano le loro monete (coins).
+
+[00:07:56.680] 
+La proof of work è semplice perché non
+
+[00:07:58.560] 
+c'è bisogno di punire i "minatori cattivi"
+
+[00:08:01.040] 
+che cercano di convalidare i blocchi errati
+
+[00:08:02.920] 
+non conformi alle regole del protocollo.
+
+[00:08:05.200] 
+La loro punizione consiste nel fatto che hanno speso energia elettrica
+
+[00:08:09.360] 
+per blocchi non validi, perdendo così denaro, così finirebbero per auto-punirsi, quindi succede raramente.
+
+[00:08:14.840] 
+La proof of stake è più complessa perché non c'è una connessione
+
+[00:08:17.080] 
+con le risorse del mondo reale.
+
+[00:08:19.960] 
+Senza una connessione alle risorse del mondo reale, come l'energia, gli staker
+
+[00:08:24.320] 
+possono attaccare la blockchain senza essere puniti.
+
+[00:08:27.280] 
+La Proof of stake aggira questo problema
+
+[00:08:29.360] 
+togliendo le monete agli staker se votano in modo improprio,
+
+[00:08:32.720] 
+questa soluzione comporta alcuni compromessi, uno dei quali è la complessità.
+
+[00:08:36.960] 
+Uno sviluppatore di Ethereum ha recentemente descritto
+
+[00:08:39.440] 
+i problemi di complessità della proof of stake.
+
+[00:08:42.720] 
+Nella storia di Ethereum, la complessità non è mai diminuita.
+
+[00:08:45.840] 
+ogni EIP (Ethereum improvment proposal) accumula complessità,
+
+[00:08:48.120] 
+ogni cambiamento importante è una complicazione in più,
+
+[00:08:50.440] 
+sono estremamente frustrato quando una nuova proposta dice di aver risolto tutto,
+
+[00:08:54.840] 
+è solo ingegneria.
+
+[00:08:56.120] 
+Devo sottolineare che Ethereum non sta andando in una direzione pulita,
+
+[00:09:00.520] 
+tangenzialmente sta ottenendo risultati,
+
+[00:09:02.640] 
+ma sta anche accumulando complessità come se non ci fosse un domani,
+
+[00:09:05.880] 
+se il protocollo non diventa più leggero, non ce la farà.
+
+[00:09:09.040] 
+Siamo già oltre il punto in cui chiunque può avere un quadro completo del sistema,
+
+[00:09:13.680] 
+Questo è un male.
+
+[00:09:14.920] 
+Non posso dire quale sia la soluzione, ma
+
+[00:09:16.720] 
+secondo me bisognerebbe smettere di aggiungere funzioni e iniziare ad eliminarle,
+
+[00:09:19.680] 
+anche a costo di rompere le cose.
+
+[00:09:23.400] 
+Ci sono sempre meno persone che sanno e sono disposte a mettere insieme i pezzi di
+
+[00:09:27.360] 
+una rete rotta, e ogni cambiamento ne allontana sempre di più.
+
+[00:09:30.440] 
+L'ultima frase va presa sul serio.
+
+[00:09:33.280] 
+un'importante sviluppatore di Ethereum ha detto che se il protocollo continua a
+
+[00:09:37.520] 
+diventare più complesso, sempre meno sviluppatori
+
+[00:09:40.400] 
+saranno in grado di coglierne la
+
+[00:09:42.120] 
+complessità, mettendo a rischio il sistema.
+
 
