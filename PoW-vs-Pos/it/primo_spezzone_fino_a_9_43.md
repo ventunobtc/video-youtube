@@ -65,10 +65,10 @@ Ed è qui che entra in gioco la proof of stake.
 Credo che dall'altra parte ci siano grandi cose.
 
 [00:01:03.440] 
-La Proof of Stake ovviamente è,  molto più efficiente,
+La prima è ovviamente la Proof of Stake,  molto più efficiente,
 
 [00:01:06.480] 
-molto più sicura, molto meno "Tree killer" (assassina alberi).
+molto più sicura, molto meno "killer di alberi".
 
 [00:01:13.080] 
 Migliaia di nuove criptovalute utilizzano questo nuovo modello di proof of stake,
@@ -192,13 +192,13 @@ Questo aggiustamento della difficoltà
 assicura che l'offerta di bitcoin rimanga limitata.
 
 [00:03:03.440] 
-Preston Pitch, value investor e podcaster, spiega perché
+Preston Pitch, investitore e podcaster, spiega perché
 
 [00:03:05.360] 
 spiega perché un'emissione
 
 [00:03:07.880] 
-un'emissione legata alla difficoltà è importante per il bitcoin.
+una difficile emissione d'offerta è importante per bitcoin.
 
 [00:03:11.040] 
 Se penso a ciò che ha funzionato storicamente che entrassimo
@@ -228,7 +228,7 @@ Proprio come l'estrazione dell'oro,
 I minatori di bitcoin impiegano lavoro ed energia per estrarre nuovi bitcoin.
 
 [00:03:52.440] 
-E proprio come le persone apprezzano l'oro per la sua
+E proprio come le persone valutano l'oro per la sua
 
 [00:03:54.560] 
 rarità, le persone apprezzano il bitcoin perché è scarso e difficile da trovare.
@@ -264,7 +264,7 @@ più le sue ultime transazioni sono sicure
 contro la maggior parte dei tipi di attacchi.
 
 [00:04:26.920] 
-Molte altre blockchain sono state
+Molte blockchain non-bitcoin sono state
 
 [00:04:29.000] 
 vittime di attacchi al 51% in cui una
@@ -444,10 +444,10 @@ sempre di più man mano che lo si incorpora nella produzione.
 Fin dalla sua nascita, la rete bitcoin
 
 [00:07:27.280] 
-ha operato con il sistema proof of work e non ha in programma di cambiare.
+funzionato usando la proof of work e non è previsto alcun cambiamento.
 
 [00:07:31.080] 
-Anche la rete Ethereum opera (al momento del video) con il proof of work,
+Anche la rete Ethereum funziona (al momento del video) con la proof of work,
 
 [00:07:33.200] 
 ma ha in programma di passare alla proof of stake.
@@ -456,7 +456,7 @@ ma ha in programma di passare alla proof of stake.
 Ma cos'è la proof of stake?
 
 [00:07:40.240] 
-la proof of stake è un sistema in cui i possessori di cripto usano le loro monete
+la proof of stake è un sistema in cui i possessori di cripto "puntano" le loro monete
 
 [00:07:44.120] 
 per votare sulla blockchain valida e vengono ricompensati
@@ -504,7 +504,7 @@ possono attaccare la blockchain senza essere puniti.
 La Proof of stake aggira questo problema
 
 [00:08:29.360] 
-togliendo le monete agli staker se votano in modo improprio,
+togliendo le monete agli staker se votano impropriamente,
 
 [00:08:32.720] 
 questa soluzione comporta alcuni compromessi, uno dei quali è la complessità.
@@ -552,7 +552,7 @@ Questo è un male.
 Non posso dire quale sia la soluzione, ma
 
 [00:09:16.720] 
-secondo me bisognerebbe smettere di aggiungere funzioni e iniziare ad eliminarle,
+secondo me bisognerebbe smettere di aggiungere funzionalità e iniziare ad eliminarle,
 
 [00:09:19.680] 
 anche a costo di rompere le cose.
