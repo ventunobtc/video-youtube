@@ -11,7 +11,7 @@ Come gettare acqua sull'olio bruciato, si è incendiato.
 E questa è la storia più importante di questo decennio.
 
 [00:00:15.880] 
-Il Bitcoin ha fatto il giro del mondo,
+Bitcoin ha suscitato forti reazioni in tutto il mondo,
 
 [00:00:18.440] 
 diffondendosi a macchia d'olio e sconvolgendo tutto ciò che toccava.
