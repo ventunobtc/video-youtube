@@ -4,7 +4,7 @@ Raccolta dei video del canale ufficiale di Ventuno
 | Titolo | Video | Trascrizione EN | Versione IT |
 |:--------------:|:--------------:|:--------------:|:--------------:|
 | Cypherpunks Write Code | [YouTube](https://youtu.be/9vM0oIEhMag) | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
-|-||||
+| Proof-of-work vs. Proof-of-stake | [YouTube](https://youtu.be/aJSv6B1R0d4) |  [Link](PoW-vs-Pos/en) | [Link](PoW-vs-Pos/it) |
 |-||||
 |-||||
 |-||||
