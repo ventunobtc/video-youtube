@@ -6,6 +6,7 @@ Raccolta dei video del canale ufficiale di Ventuno
 | Cypherpunks Write Code | [YouTube](https://youtu.be/9vM0oIEhMag) | [Link](Cypherpunks-Write-Code/en) | [Link](Cypherpunks-Write-Code/it) |
 | Proof-of-work vs. Proof-of-stake | [YouTube](https://youtu.be/aJSv6B1R0d4) |  [Link](PoW-vs-Pos/en) | [Link](PoW-vs-Pos/it) |
 | Bitcoin Fixes This | [YouTube](https://youtu.be/ecLbZF2AvxM) | [Link](Bitcoin-Fixes-This/en) | [Link](Bitcoin-Fixes-This/it) |
+| Ross Ulbricht Miami Bitcoin Conference | [YouTube](https://m.youtube.com/watch?v=zHMVyr5NjEY&feature=youtu.be) | [Link](Ross-Ulbricht-Miami-Bitcoin-Conference/en) | [Link](Ross-Ulbricht-Miami-Bitcoin-Conference/It) |
 |-||||
 |-||||
 |-||||
